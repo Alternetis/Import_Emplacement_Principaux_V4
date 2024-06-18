@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ImportEmplacementEasylogistic.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SageConnectionString" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Data Source=(local);Initial Catalog=HERSAND;Integrated Security=True</Value>
+    </Setting>
+    <Setting Name="LocalConnectionString" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Data Source=(local);Initial Catalog=EASYLOGISTIC_V4;Integrated Security=True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
